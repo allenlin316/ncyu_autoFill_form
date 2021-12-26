@@ -13,7 +13,7 @@
 * 執行以下程式碼
     * pipenv shell 然後按 `Enter`
     * pipenv install selenium 然後按 `Enter`
-* 開啟 `webCrawler.py` 檔案
+* 開啟 `webCrawler.py` 檔案(右鍵選擇開啟檔案的方式，建議用 `vs code`)
 * 輸入你這學期總共修了幾堂課
 * 輸入你的 `校務行政系統` 帳號跟密碼
 ```=python
