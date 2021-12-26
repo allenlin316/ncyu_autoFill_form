@@ -9,8 +9,10 @@
 * 首先你要是位嘉義大學的學生
 * [下載程式碼的壓縮檔](https://github.com/allenlin316/ncyu_autoFill_form/archive/refs/heads/main.zip)
 * 你會看到 `ncyu_autoFill_form-main` 的資料夾
+* [下載 Python](https://www.python.org/downloads/)
 * 在這個資料夾的路徑下開啟終端機
 * 執行以下程式碼
+    * pip install pipenv
     * pipenv shell 然後按 `Enter`
     * pipenv install selenium 然後按 `Enter`
 * 開啟 `webCrawler.py` 檔案(右鍵選擇開啟檔案的方式，建議用 `vs code`)
