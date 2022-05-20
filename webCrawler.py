@@ -12,9 +12,9 @@ check_in_btn = chrome.find_element_by_id('BtnPreLogin')
 total_question = 21
 
 # 使用者需要依自己修課狀況自行輸入
-Ur_ACCOUNT = "輸入你的校務行政系統帳號"
-Ur_PASSWORD = "輸入你的校務行政系統密碼"
-COURSE_TAKEN_NUM = 9 #輸入修課的數量
+Ur_ACCOUNT = "校務行政系統帳號"
+Ur_PASSWORD = "校務行政系統密碼"
+COURSE_TAKEN_NUM = 7 #輸入修課的數量
 
 account.send_keys(Ur_ACCOUNT)
 pwd.send_keys(Ur_PASSWORD)
