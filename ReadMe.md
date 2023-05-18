@@ -25,6 +25,7 @@ Ur_PASSWORD = "123456789"
 COURSE_TAKEN_NUM = 9
 ```
 * 打上 `python .\webCrawler.py` 然後按 `Enter` 執行程式碼
+* 到了驗證碼必須自己手動輸入，還在研究如何利用模型判斷
 > 如果帳密打錯，在終端機打上 `ctrl + c` 中止程式運行，然後再執行一次程式
 
   
