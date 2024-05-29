@@ -13,8 +13,7 @@
 * 在這個資料夾的路徑下開啟終端機
 * 執行以下程式碼
     * pip install pipenv
-    * pipenv shell 然後按 `Enter`
-    * pipenv install selenium 然後按 `Enter`
+    * pipenv install (下載需要的套件)
 * 開啟 `webCrawler.py` 檔案(右鍵選擇開啟檔案的方式，建議用 `vs code`)
 * 輸入你這學期總共修了幾堂課
 * 輸入你的 `校務行政系統` 帳號跟密碼
@@ -25,8 +24,6 @@ Ur_PASSWORD = "123456789"
 COURSE_TAKEN_NUM = 9
 ```
 * 打上 `python .\webCrawler.py` 然後按 `Enter` 執行程式碼
-* 到了驗證碼必須自己手動輸入，還在研究如何利用模型判斷
-> 如果帳密打錯，在終端機打上 `ctrl + c` 中止程式運行，然後再執行一次程式
+> 如果帳密打錯，在終端機打上 `ctrl + c` 中止程式運行，然後再執行一次程式，如果你發現都登不進去表示你帳密打錯了喔！
 
-  
 ###### tags: automation
