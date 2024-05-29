@@ -14,6 +14,7 @@
 * 執行以下程式碼
     * pip install pipenv
     * pipenv install (下載需要的套件)
+    * pipenv shell (進到虛擬環境，一定要下這行指令，因為套件是安裝在虛擬環境)
 * 開啟 `webCrawler.py` 檔案(右鍵選擇開啟檔案的方式，建議用 `vs code`)
 * 輸入你這學期總共修了幾堂課
 * 輸入你的 `校務行政系統` 帳號跟密碼
